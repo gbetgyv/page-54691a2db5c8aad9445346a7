@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "392ddfd382a8a390009cd691",
+  "owner": "gbetgyv",
+  "repo": "page-54691a2db5c8aad9445346a7",
+  "title": "jiasu19",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "54691a2db5c8aad9445346a7",
+      "a": "jiasu19",
+      "b": "",
+      "entity": "jiasu19",
+      "brand": "jiasu19",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e7d9cef33dc1411401322ae30a6c351dd9d96ae6bd616a9096b26dbfb2a793f3",
+      "content": {
+        "keyword1": "jiasu19",
+        "keyword2": "",
+        "primary_entity": "jiasu19",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "jiasu19 提供多档流量套餐与多设备并发连接能力，适用于日常浏览、流媒体访问与企业团队协作场景。请按需选择对应版本。",
+          "AI_DESCRIPTION": "jiasu19 提供多档流量套餐与多设备并发连接能力，适用于日常浏览、流媒体访问与企业团队协作场景。请按需选择对应版本。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#0b2545;--bg2:#13315c;--ink:#f5f7fa;--muted:#9fb0c8;--amber:#e8a33d;--line:#1f3a5f}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--bg);color:var(--ink);line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}\na{color:var(--amber);text-decoration:none}\na:hover{text-decoration:underline}\nheader.nav{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}\nheader.nav ul{list-style:none;display:flex;gap:18px;margin:0;padding:9px 22px;font-size:13px;letter-spacing:.02em}\nheader.nav a{color:var(--muted)}\nheader.nav a:hover{color:var(--amber);text-decoration:none}\nmain{max-width:880px;margin:0 auto;padding:0 22px}\nsection{padding:72px 0;border-bottom:1px solid var(--line)}\nsection:last-of-type{border-bottom:none}\n.hero article{font-size:16px}\n.hero h1{font-size:36px;line-height:1.25;font-weight:600;margin:0 0 18px;letter-spacing:-.01em}\n.hero p{margin:0 0 18px;color:var(--ink)}\n.hero p.sub{color:var(--muted)}\n.plans .step{display:flex;gap:18px;padding:24px 0;border-top:1px solid var(--line)}\n.plans .step:first-child{border-top:none}\n.plans .num{flex:0 0 48px;color:var(--amber);font-size:24px;font-weight:600}\n.plans .body h3{margin:0 0 6px;font-size:19px}\n.plans .price{color:var(--amber);margin:0 0 10px;font-size:14px}\n.plans ul{list-style:none;padding:0;margin:0;color:var(--muted)}\n.plans ul li{padding:3px 0}\n.featured{border-left:2px solid var(--amber);padding-left:14px}\n.usage .card{margin:18px 0}\n.usage h3{margin:0 0 8px;font-size:16px}\n.usage p{margin:0;color:var(--muted);font-size:14px}\n.faq .group{margin:26px 0}\n.faq .group h3{font-size:14px;color:var(--amber);letter-spacing:.08em;margin:0 0 10px}\n.faq .q{font-weight:600;margin:14px 0 4px;font-size:15px}\n.faq .a{color:var(--muted);margin:0 0 14px;font-size:14px}\nfooter{padding:30px 22px;color:var(--muted);font-size:12px;text-align:center}\n</style><header class=\"nav\">\n  <ul>\n    <li><a href=\"#top\">jiasu19</a></li>\n    <li><a href=\"#plans\">套餐</a></li>\n    <li><a href=\"#usage\">使用说明</a></li>\n    <li><a href=\"#faq\">常见问题</a></li>\n  </ul>\n</header>\n<main id=\"top\">\n  <section class=\"hero\">\n    <article>\n      <h1>jiasu19：面向多设备与多场景的网络连接工具</h1>\n      <p class=\"sub\">本页为说明文档，用于介绍不同流量档位与使用方式。</p>\n      <p>jiasu19 的目标是在不同网络条件下，为使用者提供一种按量计费的连接方式。使用者可选择每月流量、并发设备数量以及对应的节点池类型，以适应浏览、访问流媒体或团队协作等需求。本文档不承诺具体速率或覆盖区域，仅说明可选套餐与使用逻辑。</p>\n      <p>套餐分为基础版、旗舰版与团队版三档，流量额度分别为 100GB、300GB 与 1000GB，设备数量从 3 台至 20 台不等。使用者可按月或按年订阅，按年订阅在总价上低于按月累计。具体价格、权益与使用步骤见下文。</p>\n      <p>在使用前，使用者应确认自身所在地区或网络环境是否允许使用此类工具，并自行承担相应风险。jiasu19 不对使用后果作出担保。</p>\n    </article>\n  </section>\n\n  <section class=\"plans\" id=\"plans\">\n    <h2>可选套餐</h2>\n    <p>以下套餐按流量与设备数量递进排列，按年付总价低于按月累计。</p>\n    <div class=\"step\">\n      <div class=\"num\">01</div>\n      <div class=\"body\">\n        <h3>基础版</h3>\n        <p class=\"price\">¥15/月 · 按年付 ¥150/年</p>\n        <ul>\n          <li>每月 100GB 流量额度</li>\n          <li>最多 3 台设备同时在线</li>\n          <li>支持访问基础流媒体内容</li>\n          <li>接入普通线路节点池</li>\n        </ul>\n      </div>\n    </div>\n    <div class=\"step\">\n      <div class=\"num\">02</div>\n      <div class=\"body featured\">\n        <h3>旗舰版 · 推荐档位</h3>\n        <p class=\"price\">¥35/月 · 按年付 ¥350/年</p>\n        <ul>\n          <li>每月 300GB 流量额度</li>\n          <li>最多 5 台设备同时在线</li>\n          <li>全节点支持原生流媒体访问</li>\n          <li>IPLC 专线优先用于游戏与低延迟场景</li>\n          <li>7×24 优先工单响应</li>\n        </ul>\n      </div>\n    </div>\n    <div class=\"step\">\n      <div class=\"num\">03</div>\n      <div class=\"body\">\n        <h3>团队版</h3>\n        <p class=\"price\">¥85/月 · 按年付 ¥850/年</p>\n        <ul>\n          <li>每月 1000GB 流量额度</li>\n          <li>最多 20 台设备同时在线</li>\n          <li>接入 VIP 高带宽节点池</li>\n          <li>支持企业自定义路由配置</li>\n          <li>配备专属客户经理对接</li>\n        </ul>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"usage\" id=\"usage\">\n    <h2>使用说明</h2>\n    <div class=\"card\">\n      <h3>1. 选择套餐</h3>\n      <p>根据使用人数与流量预期选择基础版、旗舰版或团队版。流量与设备数量为固定配额，超出后需升级或等待下个周期重置。</p>\n    </div>\n    <div class=\"card\">\n      <h3>2. 获取客户端</h3>\n      <p>jiasu19 当前未在本页提供客户端下载入口。使用者可通过订阅后获取的指引完成客户端获取与安装，具体平台兼容性以实际通知为准。</p>\n    </div>\n    <div class=\"card\">\n      <h3>3. 导入配置</h3>\n      <p>将账号对应的配置导入客户端，确认节点列表加载完成后再发起连接。连接前应核对当前选择的节点与套餐是否匹配。</p>\n    </div>\n    <div class=\"card\">\n      <h3>4. 监控用量</h3>\n      <p>使用者可在客户端内查看剩余流量与在线设备数。当流量接近上限时，建议暂停非必要连接以避免影响关键任务。</p>\n    </div>\n  </section>\n\n  <section class=\"faq\" id=\"faq\">\n    <h2>常见问题</h2>\n\n    <div class=\"group\">\n      <h3>套餐与计费</h3>\n      <p class=\"q\">按月付与按年付有什么区别？</p>\n      <p class=\"a\">按月付按自然月计费；按年付为一次性支付全年费用，总价低于按月累计 twelve 个月的价格。两种方式均按所选套餐的流量与设备配额执行。</p>\n      <p class=\"q\">流量用完后会怎样？</p>\n      <p class=\"a\">流量用完后连接将被暂停，直到下一个计费周期重置。使用者可选择升级到更高档位套餐以获得更大流量配额。</p>\n      <p class=\"q\">设备数量限制如何计算？</p>\n      <p class=\"a\">同一账号同时在线的设备数不能超过套餐上限。超过上限时，新设备将无法连接，需先在已有设备上断开。</p>\n    </div>\n\n    <div class=\"group\">\n      <h3>使用与兼容</h3>\n      <p class=\"q\">可以在哪些设备上使用？</p>\n      <p class=\"a\">具体支持平台以实际提供的客户端为准。本页不对外承诺特定操作系统或硬件兼容性，使用者应在订阅前确认自身设备是否被支持。</p>\n      <p class=\"q\">是否支持流媒体访问？</p>\n      <p class=\"a\">基础版支持基础流媒体访问，旗舰版与团队版提供更完整的节点支持。访问效果受目标服务、节点状态与本地网络环境影响，不保证所有内容均可访问。</p>\n      <p class=\"q\">游戏场景需要注意什么？</p>\n      <p class=\"a\">旗舰版及以上套餐提供 IPLC 专线优先用于低延迟场景。实际延迟取决于使用者所在地与目标服务器之间的物理距离和网络路由。</p>\n    </div>\n\n    <div class=\"group\">\n      <h3>支持与退款</h3>\n      <p class=\"q\">如何获得技术支持？</p>\n      <p class=\"a\">基础版与团队版可通过工单提交问题；旗舰版及以上享有 7×24 优先响应；团队版配备专属客户经理。</p>\n      <p class=\"q\">是否支持退款？</p>\n      <p class=\"a\">本页不承诺退款政策。使用者应在订阅前充分评估需求，具体退款规则以订阅时页面或协议中披露的条款为准。</p>\n    </div>\n  </section>\n</main>\n<footer>\n  本页为 jiasu19 说明文档，内容仅供信息参考，不构成交易承诺。\n</footer>",
+          "hash": "5caa32cb47652a3a3efad8e1740c7c90c5869b456a797dc1eb9ec8d2d2cb80ca",
+          "seo": {
+            "title": "jiasu19 — 网络连接加速工具",
+            "keywords": "jiasu19,网络加速,流量套餐,设备连接,网络工具",
+            "description": "jiasu19 提供多档流量套餐与多设备并发连接能力，适用于日常浏览、流媒体访问与企业团队协作场景。请按需选择对应版本。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "3372",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tgo-s.cn",
+    "host": "p-44f064cf68.tgo-s.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "36a82ec73dfe56e8873980633572ca1d3c313bcfcf6d160c1263d4ab0f9a9081",
+    "sitemap.xml": "5990516065864fd2b74049ef53a5227354468fc8f8178c40be42686640fb2b4a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83dee8deb392ce79ba7f15cfffc249f5a5afd43f21d726069abba871aa0ffc75",
+    "robots.txt": "d04118b41baad6e7038f26144a849dfebe0e3b1012495b9af7c1ac0f123ddd8a",
+    "7a3970d3425790eebd0a3e3385a2086a.txt": "3b1fcbb10646eaab13faab09ce397e3a161e45d6049fbd29d67ec325fd175984"
+  },
+  "revision": "5026733486e784356c29bcdb0a6ca5225d46a9400244b0969e8ff6d2838294c5"
+}

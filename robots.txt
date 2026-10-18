@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-44f064cf68.tgo-s.cn/sitemap.xml
